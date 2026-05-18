@@ -41,6 +41,17 @@ You can download the official verified installer directly from the link below:
 
 [Download ApexOs Optimizer Setup v1.0](https://github.com/DevBO7MED/ApexOs-Optimizer/releases/download/1.0.0/ApexOs_Optimizer_Setup.exe)
 
+---
+
+## Support the Developer
+
+ApexOs Optimizer is completely free of charge. If this tool has been useful to you and you wish to support its continued development and updates, you can make a donation via:
+
+* **Etisalat Cash:** `01155804397`
+
+Your support is greatly appreciated and directly helps keep this project alive and updated.
+
+---
 
 ## Connect with Developer (BO7MEDX)
 
@@ -51,3 +62,8 @@ If you have any questions, suggestions, or want to follow future updates, feel f
 * Discord: https://discord.com/users/bo7medx
 * YouTube: https://www.youtube.com/channel/UC6ciyDW14Kh4qMJWVZXUypw
 * Facebook: https://facebook.com/bo7medx
+* WebSite: https://bo7medx-lite-os.rf.gd
+
+
+
+
